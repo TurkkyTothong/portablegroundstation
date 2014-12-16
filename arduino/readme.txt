@@ -12,7 +12,7 @@ file description
 complete_file.ino : merge between interface and  recieve for actual uasge 
 interface.ino          : Design and test screen performance 
 recieve_merge      : Design custom protocol to communicate with MavLink gateway
-
+performance_tester  : Test performance of arduino DUE , Arduino Mega2560 
 
 ##Web blog : http://turkkytothong.blogspot.com/
 ##GitHub     : https://github.com/TurkkyTothong/portablegroundstation
